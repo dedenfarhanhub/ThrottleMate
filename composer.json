@@ -25,7 +25,10 @@
     "laravel": {
       "providers": [
         "PartiMate\\ThrottleMate\\ServiceProvider"
-      ]
+      ],
+      "aliases": {
+        "ThrottleMate": "PartiMate\\ThrottleMate\\Facades\\ThrottleMate"
+      }
     }
   },
   "minimum-stability": "stable",
