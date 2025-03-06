@@ -101,11 +101,11 @@ $response = app(AdaptiveThrottler::class)->attempt(function () {
 ---
 
 ## Benefits 💪
-- Improves **API Availability** automatically
-- Prevents **Service Downtime** due to rate limiting
-- Reduces **API Crash Rate**
-- Supports **High Traffic Applications**
-- Plug & Play integration
+1. Improves **API Availability** automatically
+2. Prevents **Service Downtime** due to rate limiting
+3. Reduces **API Crash Rate**
+4. Supports **High Traffic Applications**
+5. Plug & Play integration
 
 ---
 
