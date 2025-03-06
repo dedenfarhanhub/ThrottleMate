@@ -1,6 +1,6 @@
 {
   "name": "partimate/throttlemate",
-  "description": "Adaptive Throttling for Laravel to handle connection bottleneck",
+  "description": "Adaptive Throttling for PHP (Laravel or Standalone)",
   "type": "library",
   "license": "MIT",
   "authors": [
@@ -16,7 +16,7 @@
   },
   "require": {
     "php": ">=8.1",
-    "illuminate/support": "^10.0"
+    "illuminate/support": "^5.0|^6.0|^7.0|^8.0|^9.0|^10.0|^11.0"
   },
   "extra": {
     "laravel": {
